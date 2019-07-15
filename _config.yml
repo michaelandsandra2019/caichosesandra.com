@@ -2,9 +2,9 @@ url: http://michaelandsandra2019.github.io
 baseurl: ''
 
 # Site settings
-title: "#kealex2016"
-email: wedding@pretzlav.com
-description: "Alex Pretzlav and Kealie Goodwin are getting married in Piedmont, CA on June 18, 2016"
+title: "#caichosesandra2019"
+email: michaelandsandra2019@gmail.com
+description: "Michael Cai and Sandra Chang are getting married in Houston, TX on December 30, 2019"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,9 +13,9 @@ color:
   secondary-dark: 333
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/apretz
+# social:
+  # - title: twitter
+    # url: http://twitter.com/apretz
 
 # Build settings
 markdown: kramdown
