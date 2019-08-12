@@ -15,11 +15,11 @@ a {
 }
 
 
-#cats img {
-	max-height: 300px;
+#gallery img {
+	max-height: 400px;
 }
 
-#cats .col-md-4, #cats .col-md-6 {
+#gallery .col-md-4, #gallery .col-md-6 {
 	margin-top: 20px;
 }
 
