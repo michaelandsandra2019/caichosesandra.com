@@ -235,7 +235,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        /* background-color: transparent; */
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background: url(../img/header-bg-3@2x.jpg);
+    background: url(../img/engagement_photos/Sandra&Michael_68.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

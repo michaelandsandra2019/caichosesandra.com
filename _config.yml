@@ -3,14 +3,19 @@ baseurl: ''
 
 # Site settings
 title: "#caichosesandra2019"
-email: wedding@caichosesandra.com
-description: "Michael Cai and Sandra Chang are getting married in Houston, Texas on December 30th, 2019"
+email: michaelandsandra2019@gmail.com
+description: "Michael Cai and Sandra Chang are getting married in Houston, TX on December 30, 2019"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 3dbbf0
-  secondary: 2f90b9
+  primary: 57a0be
+  secondary: 2f90b9  
   secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+  # - title: twitter
+    # url: http://twitter.com/apretz
 
 # Build settings
 markdown: kramdown
